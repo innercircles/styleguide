@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="" id="innercircles-logo" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="innercircles-logo-icon-only.svg" width="270" height="270">
+  <defs id="defs" />
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1983" inkscape:window-height="1128" id="namedview16" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="1" inkscape:cx="-196.23827903034" inkscape:cy="-42.754579409178" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="1" inkscape:current-layer="innercircles-logo" showborder="false" />
+  <metadata id="metadata">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>innercircles™ icon</dc:title>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+        <dc:subject>innercircles™ logo icon</dc:subject>
+        <dc:description>Depiction of innercircles™ company logo icon-only</dc:description>
+        <dc:creator rdf:href="https://www.linkedin.com/in/arnoldschrijver/"/>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="innercircles-logo-icon-only" transform="translate(-239.14725482226,262.75457542972)" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+    <g transform="matrix(2.5,0,0,2.5,-220.0859147334,-1905.8994118555)" id="icon">
+      <circle id="feels" cx="237.69326782227" cy="711.25793457031" r="14" style="fill:none;stroke:#f90;stroke-width:8;stroke-opacity:1" />
+      <circle id="acts" cx="237.69326782227" cy="711.25793457031" r="32" style="fill:none;stroke:#060;stroke-width:8;stroke-opacity:1" />
+      <circle id="thinks" cx="237.69326782227" cy="711.25793457031" r="50" style="fill:none;stroke:#069;stroke-width:8;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
